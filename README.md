@@ -63,6 +63,10 @@ Can't both save an answer and determine the positivity of a single user response
 If the `+` operator is used, the next 3 lines MUST start with each one of `+`, `-`, and `0`.
 
 
+<h3>Topics:</h3>
+There's a general conversation with the chatbot but there're two major topics of choice to talk about;
+One about Football/Soccer and the newly added topics on Basketball and Tennis.
+To have the chatbot talk about a certain topic, the user has the freedom of which order to ask the chatbot questions with format similar to ones in the `convo.dat` file.
 
 <h3>Potential Updates:</h3>
 
