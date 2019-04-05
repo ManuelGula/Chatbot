@@ -87,5 +87,7 @@ To have the chatbot talk about a certain topic, the user has the freedom of whic
 
 <h3>Features Included:</h3>
 1. POS tagging- This feature was included to recognize and extract parts of speeches from a user's response like nouns and verbs.
+
 2. Named entity recognition- Similar to POS tagging, it's used in conjuction with POS tagging and word tokenization to extract  information from a user's sentence or response.
+
 3. Synonym recognition- This feature was used while receiving responses from the user so the user could use synonyms while asking the chatbot a question without to ensure the right response is received from the chatbot.
