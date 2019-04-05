@@ -66,6 +66,20 @@ Oh yeah, I think I've heard of him before.
 ?how&many&ballon/ballondors&do/does&have
 He's won 5 ballon d'Ors!
 
+?what&other&sport&do&you&like/love
+I like hockey because it's a customary sport in Canada
+Do you like basketball?+
++That's great. I'm a fan of the Lakers.Do you have a team you support in basketball?^team.NNP
+$team is a good one. I believe they're always competitive in games.
+What is the name of your favorite player in $team? ^name.NNP
+$name sounds like a decent player to have in any team.
+-That's unfortunate. It'll be nice to try it someday.
+How about tennis?+
++It sounds like an enjoyable sport.I've only tried table tennis.
+I hope to try tennis someday too.
+-Maybe you might not be into other sports aside popular ones.
+0That's cool.
+
 ?what&you&do&during/each&day
 I wait for people like you to talk to me!
 
