@@ -1,4 +1,4 @@
-<h4>Emmanuel Werimegbe:</h4>
+<h4>Emmanuel Werimegbe</h4>
 # Friend Chatbot
 
 
